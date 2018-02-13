@@ -6,6 +6,8 @@ body, html {
     height: 100%;
     color: #777;
     line-height: 1.8;
+    background-color: whitesmoke;
+
 }
 
 /* Create a Parallax Effect */
@@ -50,4 +52,10 @@ body, html {
 
 #about h5{
     text-align: center !important;
+    font-style: italic;
+}
+
+#profilepic{
+    text-align: center;
+    padding: 15px;
 }
